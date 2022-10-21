@@ -1,7 +1,7 @@
 # HR-Analytics
 
-## Task
-Play the role of an HR analyst and provide insights on a Human Resources dataset! 
+## Objective
+To play the role of an HR analyst and provide insights on a Human Resources dataset! 
 
 ## Details
 * Created HR analytics report on Power BI on **Organizational Overview**, **Demographic Analysis** and **Employee Turnover Analysis**. 
