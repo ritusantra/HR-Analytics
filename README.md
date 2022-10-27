@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR Analytics 🧑‍💼📊
 
 [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiZmE4M2ExZGMtNzI5Ni00YjFiLWI0NzUtZDBlZjllZGRkN2RhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection88ab31d8470d804bebb3)
 
